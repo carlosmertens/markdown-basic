@@ -2,6 +2,8 @@
 
 ## Second level heading
 
+Tweet sample coded with tutorial [HTML Tutorial for Beginners: HTML Crash Course](https://youtu.be/qz0aGYrrlhU) from _Programming with Mosh_ channel
+
 ### Third Level
 
 1. Item One
@@ -22,8 +24,9 @@ touch README.md
 
 > I am the best
 
-
 ![Lion](/img/lion.jpg)
+
+---
 
 ![Samaria Gorge][View]
 
